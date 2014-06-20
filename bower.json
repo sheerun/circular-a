@@ -1,6 +1,6 @@
 {
   "name": "circular-a",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/edeustace/bower-deps-test",
   "authors": [
     "Adam Stankiewicz <sheerun@sher.pl>"
@@ -14,5 +14,6 @@
     "tests"
   ],
   "dependencies": {
+    "circular-b": "0.0.0"
   }
 }
